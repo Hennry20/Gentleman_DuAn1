@@ -1,0 +1,10 @@
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.exe.config
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.exe
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.pdb
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.AssemblyReference.cache
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Form1.resources
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Properties.Resources.resources
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.GenerateResource.cache
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.CoreCompileInputs.cache
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.exe
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.pdb
