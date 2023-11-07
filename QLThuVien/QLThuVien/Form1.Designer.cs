@@ -137,7 +137,7 @@ namespace QLThuVien
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Violet;
+            this.button1.BackColor = System.Drawing.Color.Pink;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Location = new System.Drawing.Point(133, 431);
@@ -184,6 +184,7 @@ namespace QLThuVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1010, 671);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.button2);
