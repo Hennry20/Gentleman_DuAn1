@@ -1,0 +1,10 @@
+D:\14.DuAn1\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+D:\14.DuAn1\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+D:\14.DuAn1\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+D:\14.DuAn1\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.AssemblyReference.cache
+D:\14.DuAn1\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Form1.resources
+D:\14.DuAn1\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Properties.Resources.resources
+D:\14.DuAn1\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.GenerateResource.cache
+D:\14.DuAn1\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.CoreCompileInputs.cache
+D:\14.DuAn1\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+D:\14.DuAn1\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
