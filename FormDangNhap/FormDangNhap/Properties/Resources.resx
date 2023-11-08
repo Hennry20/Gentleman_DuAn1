@@ -124,10 +124,13 @@
   <data name="eyes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\eyes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fpt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fpt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="backgroup" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgroup.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="fpt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fpt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="FPT_Polytechnic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FPT_Polytechnic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

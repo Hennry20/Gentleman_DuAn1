@@ -101,5 +101,8 @@
   <ItemGroup>
     <None Include="Resources\fpt.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FPT_Polytechnic.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

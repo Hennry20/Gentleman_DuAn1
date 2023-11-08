@@ -62,20 +62,20 @@ namespace FormDangNhap
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(42, 111);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(106, 26);
+            this.label2.Size = new System.Drawing.Size(99, 25);
             this.label2.TabIndex = 2;
             this.label2.Text = "Tài khoản";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(42, 208);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(101, 26);
+            this.label3.Size = new System.Drawing.Size(93, 25);
             this.label3.TabIndex = 3;
             this.label3.Text = "Mật khẩu";
             // 
@@ -213,6 +213,8 @@ namespace FormDangNhap
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "ĐĂNG NHẬP";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
