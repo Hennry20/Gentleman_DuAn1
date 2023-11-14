@@ -65,7 +65,7 @@ namespace FormDangNhap
             // 
             this.progressBar1.Location = new System.Drawing.Point(-4, 669);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(1315, 23);
+            this.progressBar1.Size = new System.Drawing.Size(1319, 23);
             this.progressBar1.TabIndex = 2;
             // 
             // pictureBox2
