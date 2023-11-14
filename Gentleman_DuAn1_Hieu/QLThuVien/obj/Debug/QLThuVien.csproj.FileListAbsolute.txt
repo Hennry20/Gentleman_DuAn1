@@ -1,0 +1,11 @@
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\bin\Debug\QLThuVien.exe.config
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\bin\Debug\QLThuVien.exe
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\bin\Debug\QLThuVien.pdb
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.csproj.AssemblyReference.cache
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.Properties.Resources.resources
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.csproj.GenerateResource.cache
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.csproj.CoreCompileInputs.cache
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.exe
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.pdb
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.QLNhanVien.resources
+D:\FPT_Polyechnic\DuAn1\GIT\Gentleman_DuAn1\Gentleman_DuAn1_Hieu\QLThuVien\obj\Debug\QLThuVien.QLThongKe.resources
