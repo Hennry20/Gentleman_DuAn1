@@ -159,7 +159,7 @@ namespace DuAn1
             this.groupBox3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.groupBox3.Size = new System.Drawing.Size(1322, 272);
+            this.groupBox3.Size = new System.Drawing.Size(1322, 286);
             this.groupBox3.TabIndex = 5;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Danh Sách Cho Mượn";
@@ -177,7 +177,7 @@ namespace DuAn1
             this.dtgvQLMuonSach.Name = "dtgvQLMuonSach";
             this.dtgvQLMuonSach.RowHeadersWidth = 62;
             this.dtgvQLMuonSach.RowTemplate.Height = 28;
-            this.dtgvQLMuonSach.Size = new System.Drawing.Size(1304, 223);
+            this.dtgvQLMuonSach.Size = new System.Drawing.Size(1304, 237);
             this.dtgvQLMuonSach.TabIndex = 0;
             // 
             // MaNguoiDoc2
@@ -616,7 +616,7 @@ namespace DuAn1
             this.groupBox5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.groupBox5.Size = new System.Drawing.Size(1322, 292);
+            this.groupBox5.Size = new System.Drawing.Size(1322, 298);
             this.groupBox5.TabIndex = 6;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Danh Sách Trả Sách";
@@ -635,7 +635,7 @@ namespace DuAn1
             this.dtgvQLTraSach.Name = "dtgvQLTraSach";
             this.dtgvQLTraSach.RowHeadersWidth = 62;
             this.dtgvQLTraSach.RowTemplate.Height = 28;
-            this.dtgvQLTraSach.Size = new System.Drawing.Size(1307, 251);
+            this.dtgvQLTraSach.Size = new System.Drawing.Size(1307, 257);
             this.dtgvQLTraSach.TabIndex = 0;
             // 
             // MaNguoiDoc1
@@ -974,7 +974,7 @@ namespace DuAn1
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(121)))), ((int)(((byte)(194)))), ((int)(((byte)(210)))));
-            this.ClientSize = new System.Drawing.Size(1382, 760);
+            this.ClientSize = new System.Drawing.Size(1382, 780);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;

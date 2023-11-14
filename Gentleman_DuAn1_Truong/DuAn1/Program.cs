@@ -16,7 +16,7 @@ namespace DuAn1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QL_NguoiMuonSach());
+            Application.Run(new Form1());
         }
     }
 }
