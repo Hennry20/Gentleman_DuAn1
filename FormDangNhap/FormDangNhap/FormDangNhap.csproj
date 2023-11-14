@@ -72,11 +72,23 @@
     <Compile Include="QLNhanVien.Designer.cs">
       <DependentUpon>QLNhanVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="QlSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QlSach.designer.cs">
+      <DependentUpon>QlSach.cs</DependentUpon>
+    </Compile>
     <Compile Include="ThongKe.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ThongKe.Designer.cs">
       <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangChu.designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -100,8 +112,14 @@
     <EmbeddedResource Include="QLNhanVien.resx">
       <DependentUpon>QLNhanVien.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="QlSach.resx">
+      <DependentUpon>QlSach.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ThongKe.resx">
       <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
