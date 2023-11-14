@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DuAn1
 {
-    public partial class Sach : Form
+    public partial class QlSach : Form
     {
-        public Sach()
+        public QlSach()
         {
             InitializeComponent();
         }
