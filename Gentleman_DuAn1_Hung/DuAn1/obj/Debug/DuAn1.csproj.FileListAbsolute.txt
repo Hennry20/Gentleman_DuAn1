@@ -9,4 +9,4 @@ E:\FPT\FPT Polytechnic\FALL_2023\BLOCK2\PRO131\Project1\Gentleman_DuAn1\Gentlema
 E:\FPT\FPT Polytechnic\FALL_2023\BLOCK2\PRO131\Project1\Gentleman_DuAn1\Gentleman_DuAn1_Hung\DuAn1\obj\Debug\DuAn1.exe
 E:\FPT\FPT Polytechnic\FALL_2023\BLOCK2\PRO131\Project1\Gentleman_DuAn1\Gentleman_DuAn1_Hung\DuAn1\obj\Debug\DuAn1.pdb
 E:\FPT\FPT Polytechnic\FALL_2023\BLOCK2\PRO131\Project1\Gentleman_DuAn1\Gentleman_DuAn1_Hung\DuAn1\obj\Debug\DuAn1.TrangChu.resources
-E:\FPT\FPT Polytechnic\FALL_2023\BLOCK2\PRO131\Project1\Gentleman_DuAn1\Gentleman_DuAn1_Hung\DuAn1\obj\Debug\DuAn1.Sach.resources
+E:\FPT\FPT Polytechnic\FALL_2023\BLOCK2\PRO131\Project1\Gentleman_DuAn1\Gentleman_DuAn1_Hung\DuAn1\obj\Debug\DuAn1.QlSach.resources

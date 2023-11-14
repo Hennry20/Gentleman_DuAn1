@@ -331,6 +331,62 @@
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // button4
+            // 
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
+            this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button4.Location = new System.Drawing.Point(141, 238);
+            this.button4.Name = "button4";
+            this.button4.Padding = new System.Windows.Forms.Padding(5, 0, 20, 0);
+            this.button4.Size = new System.Drawing.Size(130, 45);
+            this.button4.TabIndex = 28;
+            this.button4.Text = "Reset";
+            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
+            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.Location = new System.Drawing.Point(21, 238);
+            this.button3.Name = "button3";
+            this.button3.Padding = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.button3.Size = new System.Drawing.Size(111, 45);
+            this.button3.TabIndex = 27;
+            this.button3.Text = "Xóa ";
+            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
+            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.Location = new System.Drawing.Point(141, 184);
+            this.button2.Name = "button2";
+            this.button2.Padding = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.button2.Size = new System.Drawing.Size(130, 45);
+            this.button2.TabIndex = 26;
+            this.button2.Text = "Cập nhật";
+            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(21, 184);
+            this.button1.Name = "button1";
+            this.button1.Padding = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.button1.Size = new System.Drawing.Size(111, 45);
+            this.button1.TabIndex = 25;
+            this.button1.Text = "Thêm";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -590,7 +646,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+//<<<<<<< HEAD
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+//=======
+//>>>>>>> dff61eb61e169806ed936c808fb092592635f468
             this.Name = "QlSach";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QLSach";
