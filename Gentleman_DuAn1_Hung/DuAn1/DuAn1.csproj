@@ -4,6 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<<< HEAD:Gentleman_DuAn1_Hieu/QLThuVien/QLThuVien.csproj
 <<<<<<<< HEAD:FormDangNhap/FormDangNhap/FormDangNhap.csproj
     <ProjectGuid>{D5D89984-17C1-49EA-838C-1252E7423CB9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -15,6 +16,12 @@
     <RootNamespace>QLThuVien</RootNamespace>
     <AssemblyName>QLThuVien</AssemblyName>
 >>>>>>>> remotes/origin/hieu:Gentleman_DuAn1_Hieu/QLThuVien/QLThuVien.csproj
+========
+    <ProjectGuid>{D0A7A8F1-876F-4A39-8E64-1E36907B5FC3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DuAn1</RootNamespace>
+    <AssemblyName>DuAn1</AssemblyName>
+>>>>>>>> remotes/origin/hung:Gentleman_DuAn1_Hung/DuAn1/DuAn1.csproj
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -53,11 +60,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Sach.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Sach.Designer.cs">
+      <DependentUpon>Sach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
     </Compile>
     <Compile Include="Form2.cs">
       <SubType>Form</SubType>
@@ -73,6 +86,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<<< HEAD:Gentleman_DuAn1_Hieu/QLThuVien/QLThuVien.csproj
 <<<<<<<< HEAD:FormDangNhap/FormDangNhap/FormDangNhap.csproj
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -94,6 +108,14 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
 >>>>>>>> remotes/origin/hieu:Gentleman_DuAn1_Hieu/QLThuVien/QLThuVien.csproj
+========
+    <EmbeddedResource Include="Sach.resx">
+      <DependentUpon>Sach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+>>>>>>>> remotes/origin/hung:Gentleman_DuAn1_Hung/DuAn1/DuAn1.csproj
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

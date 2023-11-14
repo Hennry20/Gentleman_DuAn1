@@ -8,13 +8,19 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<<< HEAD:Gentleman_DuAn1_Hieu/QLThuVien/Properties/Settings.Designer.cs
 
 <<<<<<<< HEAD:FormDangNhap/FormDangNhap/Properties/Settings.Designer.cs
 namespace FormDangNhap.Properties
 ========
 namespace QLThuVien.Properties
 >>>>>>>> remotes/origin/hieu:Gentleman_DuAn1_Hieu/QLThuVien/Properties/Settings.Designer.cs
+========
+namespace DuAn1.Properties
+>>>>>>>> remotes/origin/hung:Gentleman_DuAn1_Hung/DuAn1/Properties/Settings.Designer.cs
 {
+
+
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase

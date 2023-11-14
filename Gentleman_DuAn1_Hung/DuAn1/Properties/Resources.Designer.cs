@@ -8,9 +8,15 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<<< HEAD:Gentleman_DuAn1_Hieu/QLThuVien/Properties/Resources.Designer.cs
 
 namespace QLThuVien.Properties
+========
+namespace DuAn1.Properties
+>>>>>>>> remotes/origin/hung:Gentleman_DuAn1_Hung/DuAn1/Properties/Resources.Designer.cs
 {
+
+
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -43,7 +49,11 @@ namespace QLThuVien.Properties
             {
                 if ((resourceMan == null))
                 {
+<<<<<<<< HEAD:Gentleman_DuAn1_Hieu/QLThuVien/Properties/Resources.Designer.cs
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("QLThuVien.Properties.Resources", typeof(Resources).Assembly);
+========
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DuAn1.Properties.Resources", typeof(Resources).Assembly);
+>>>>>>>> remotes/origin/hung:Gentleman_DuAn1_Hung/DuAn1/Properties/Resources.Designer.cs
                     resourceMan = temp;
                 }
                 return resourceMan;
