@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<<< HEAD:Gentleman_DuAn1_Hung/Gentleman_DuAn1_Hung.sln
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuAn1", "DuAn1\DuAn1.csproj", "{D0A7A8F1-876F-4A39-8E64-1E36907B5FC3}"
+========
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuAn1", "DuAn1\DuAn1.csproj", "{8572AA1D-7C27-47F8-AC38-77F17786724A}"
+>>>>>>>> remotes/origin/truong:Gentleman_DuAn1_Truong/Gentleman_DuAn1_Truong.sln
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<<< HEAD:Gentleman_DuAn1_Hung/Gentleman_DuAn1_Hung.sln
+		{D0A7A8F1-876F-4A39-8E64-1E36907B5FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A7A8F1-876F-4A39-8E64-1E36907B5FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A7A8F1-876F-4A39-8E64-1E36907B5FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A7A8F1-876F-4A39-8E64-1E36907B5FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+========
+		{8572AA1D-7C27-47F8-AC38-77F17786724A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8572AA1D-7C27-47F8-AC38-77F17786724A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8572AA1D-7C27-47F8-AC38-77F17786724A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8572AA1D-7C27-47F8-AC38-77F17786724A}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>>> remotes/origin/truong:Gentleman_DuAn1_Truong/Gentleman_DuAn1_Truong.sln
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<<< HEAD:Gentleman_DuAn1_Hung/Gentleman_DuAn1_Hung.sln
+		SolutionGuid = {61CB6474-E79A-4443-81E1-44D1255EC06E}
+========
+		SolutionGuid = {161B64CF-F014-4293-A449-5086B869C9FB}
+>>>>>>>> remotes/origin/truong:Gentleman_DuAn1_Truong/Gentleman_DuAn1_Truong.sln
+	EndGlobalSection
+EndGlobal
