@@ -10,6 +10,7 @@
 
 <<<<<<<< HEAD:Gentleman_DuAn1_Hieu/QLThuVien/Properties/Settings.Designer.cs
 
+<<<<<<<< HEAD:Gentleman_DuAn1_Hung/DuAn1/Properties/Settings.Designer.cs
 <<<<<<<< HEAD:FormDangNhap/FormDangNhap/Properties/Settings.Designer.cs
 namespace FormDangNhap.Properties
 ========
@@ -18,6 +19,9 @@ namespace QLThuVien.Properties
 ========
 namespace DuAn1.Properties
 >>>>>>>> remotes/origin/hung:Gentleman_DuAn1_Hung/DuAn1/Properties/Settings.Designer.cs
+========
+namespace DuAn1.Properties
+>>>>>>>> remotes/origin/truong:Gentleman_DuAn1_Truong/DuAn1/Properties/Settings.Designer.cs
 {
 
 
