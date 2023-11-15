@@ -64,7 +64,7 @@ namespace FormDangNhap
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(83, 98);
+            this.label2.Location = new System.Drawing.Point(83, 188);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(99, 25);
             this.label2.TabIndex = 16;
@@ -74,7 +74,7 @@ namespace FormDangNhap
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(83, 187);
+            this.label3.Location = new System.Drawing.Point(83, 289);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(93, 25);
             this.label3.TabIndex = 17;
@@ -145,7 +145,7 @@ namespace FormDangNhap
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(83, 384);
+            this.label6.Location = new System.Drawing.Point(83, 93);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(69, 25);
             this.label6.TabIndex = 27;
@@ -155,7 +155,7 @@ namespace FormDangNhap
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(83, 286);
+            this.label4.Location = new System.Drawing.Point(83, 386);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(181, 25);
             this.label4.TabIndex = 28;
@@ -180,9 +180,9 @@ namespace FormDangNhap
             // pictureBox1
             // 
             this.pictureBox1.Image = global::FormDangNhap.Properties.Resources.FPT_Polytechnic;
-            this.pictureBox1.Location = new System.Drawing.Point(539, 1);
+            this.pictureBox1.Location = new System.Drawing.Point(558, 9);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(169, 76);
+            this.pictureBox1.Size = new System.Drawing.Size(138, 69);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 31;
             this.pictureBox1.TabStop = false;
@@ -190,7 +190,7 @@ namespace FormDangNhap
             // pictureBox2
             // 
             this.pictureBox2.Image = global::FormDangNhap.Properties.Resources.eyes;
-            this.pictureBox2.Location = new System.Drawing.Point(630, 226);
+            this.pictureBox2.Location = new System.Drawing.Point(625, 429);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(28, 32);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

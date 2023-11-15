@@ -10,3 +10,4 @@ D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.exe
 D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.pdb
 D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Form2.resources
 D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Form3.resources
+D:\GIt\Gentleman_DuAn1\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Form5.resources
